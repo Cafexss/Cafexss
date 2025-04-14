@@ -3,7 +3,7 @@
 
  # 🌈 我的 GitHub 关注项目精选
 
-欢迎探索我整理的 GitHub 项目！涵盖区块链、DeFi、AI、安全等热门领域，点击标题跳转查看详情！🌟
+欢迎探索我整理的 GitHub 项目！涵盖区块链、DeFi、AI、安全等热门领域
 
 ## [区块链与 Web3 开发 🛠️](https://github.com/Cafexss/Blockchain-Notes/blob/main/%F0%9F%94%A8%E5%8C%BA%E5%9D%97%E9%93%BE%E4%B8%8E%20Web3%20%E5%BC%80%E5%8F%91%E5%B7%A5%E5%85%B7.md)  
 智能合约与 DApp 开发利器，如 Solidity、Solana SDK。
