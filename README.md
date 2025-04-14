@@ -1,7 +1,7 @@
 
  🌱 I’m currently learning Web3 
 
- # 🚀 我的 GitHub 关注项目精选
+ # 🌈 我的 GitHub 关注项目精选
 
 欢迎探索我整理的 GitHub 项目！涵盖区块链、DeFi、AI、安全等热门领域，点击标题跳转查看详情！🌟
 
@@ -43,5 +43,5 @@ Discord、Twitter 自动化，高效互动。
 
 ---
 
-🌈 
+
 
