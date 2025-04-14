@@ -10,7 +10,7 @@
 
 ## 🧑‍💻 About Me
 
-Hi there! I'm **Cafexss**, a passionate security developer diving deep into the world of **Web3, DeFi, and blockchain automation**.  
+Hi there! I'm **0xffee (咖啡)**, a passionate security developer diving deep into the world of **Web3, DeFi, and blockchain automation**.  
 
 - 💡 Currently exploring smart contracts, DEX arbitrage bots, and MEV strategies  
 - ⚡ Always curious about security, AI agents, and how to automate *everything*  
