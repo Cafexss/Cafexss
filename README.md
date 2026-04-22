@@ -1,4 +1,4 @@
-<h1 align="center">🌱 Welcome to My Web3 Journey</h1>
+<h1 align="center">🌱 Hunting Alpha in the Dark Forest</h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Web3-Explorer-green?style=flat-square" />
